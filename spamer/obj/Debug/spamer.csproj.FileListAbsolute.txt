@@ -1,0 +1,29 @@
+c:\users\юлия\documents\visual studio 2013\Projects\spamer\spamer\bin\Debug\spamer.exe.config
+c:\users\юлия\documents\visual studio 2013\Projects\spamer\spamer\bin\Debug\spamer.exe
+c:\users\юлия\documents\visual studio 2013\Projects\spamer\spamer\bin\Debug\spamer.pdb
+c:\users\юлия\documents\visual studio 2013\Projects\spamer\spamer\obj\Debug\spamer.csprojResolveAssemblyReference.cache
+c:\users\юлия\documents\visual studio 2013\Projects\spamer\spamer\obj\Debug\spamer.Form1.resources
+c:\users\юлия\documents\visual studio 2013\Projects\spamer\spamer\obj\Debug\spamer.Properties.Resources.resources
+c:\users\юлия\documents\visual studio 2013\Projects\spamer\spamer\obj\Debug\spamer.csproj.GenerateResource.Cache
+c:\users\юлия\documents\visual studio 2013\Projects\spamer\spamer\obj\Debug\spamer.exe
+c:\users\юлия\documents\visual studio 2013\Projects\spamer\spamer\obj\Debug\spamer.pdb
+D:\Download\spamer\spamer\spamer\bin\Debug\spamer.exe.config
+D:\Download\spamer\spamer\spamer\bin\Debug\spamer.exe
+D:\Download\spamer\spamer\spamer\bin\Debug\spamer.pdb
+D:\Download\spamer\spamer\spamer\obj\Debug\spamer.csprojAssemblyReference.cache
+D:\Download\spamer\spamer\spamer\obj\Debug\spamer.Form1.resources
+D:\Download\spamer\spamer\spamer\obj\Debug\spamer.Properties.Resources.resources
+D:\Download\spamer\spamer\spamer\obj\Debug\spamer.csproj.GenerateResource.cache
+D:\Download\spamer\spamer\spamer\obj\Debug\spamer.csproj.CoreCompileInputs.cache
+D:\Download\spamer\spamer\spamer\obj\Debug\spamer.exe
+D:\Download\spamer\spamer\spamer\obj\Debug\spamer.pdb
+D:\C#\GitHubC#\spamer\spamer\bin\Debug\spamer.exe.config
+D:\C#\GitHubC#\spamer\spamer\bin\Debug\spamer.exe
+D:\C#\GitHubC#\spamer\spamer\bin\Debug\spamer.pdb
+D:\C#\GitHubC#\spamer\spamer\obj\Debug\spamer.csprojAssemblyReference.cache
+D:\C#\GitHubC#\spamer\spamer\obj\Debug\spamer.Form1.resources
+D:\C#\GitHubC#\spamer\spamer\obj\Debug\spamer.Properties.Resources.resources
+D:\C#\GitHubC#\spamer\spamer\obj\Debug\spamer.csproj.GenerateResource.cache
+D:\C#\GitHubC#\spamer\spamer\obj\Debug\spamer.csproj.CoreCompileInputs.cache
+D:\C#\GitHubC#\spamer\spamer\obj\Debug\spamer.exe
+D:\C#\GitHubC#\spamer\spamer\obj\Debug\spamer.pdb
